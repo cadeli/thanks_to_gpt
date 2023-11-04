@@ -1,6 +1,7 @@
 # thanks_to_gpt
 
 a game writtten by chat gpt 3.5
+see in action at https://cadeli.github.io/thanks_to_gpt/
 
 prompts :
 write a code in javascript for a simple game using p5.js in the style of space invaders
